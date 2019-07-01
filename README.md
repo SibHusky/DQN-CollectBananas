@@ -15,7 +15,4 @@ The environment is an adpated version of https://youtu.be/heVMs3t9qSk and is a p
 ## Getting started
 Follow the instraction in the jupyter notebook BananaCollector-main.ipynb.
 
-## Possible improvements
-- intensive hyperparameter tuning
-- a deeper neural network
-- other technics like double DQN, dueling DQN, prioritizied experience replay
+
