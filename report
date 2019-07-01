@@ -29,4 +29,6 @@ In this project the state is represented as vector. So a simple 3 layer - DNN is
 ## Result and plots
 
 ## Ideas for the future work
-
+- intensive hyperparameter tuning
+- a deeper neural network
+- other technics like double DQN, dueling DQN, prioritizied experience replay
