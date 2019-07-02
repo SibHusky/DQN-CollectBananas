@@ -1,6 +1,8 @@
 # DQN-CollectBananas
 Agent for solving the Unity "Banana" Environment
 
+<img src="https://github.com/SibHusky/DQN-CollectBananas/blob/master/gifs/trained_James.gif" width="480" height="270" />
+
 ## Introduction
 This is all about a Reinforcement Learning problem. In square world an agent hast to collect yellow bananas for which he gets a reward of +1. But there are also blue bananas. If the agent runs into one of these he gets a reward of -1.
 The goal is to get a score as high as possible.
