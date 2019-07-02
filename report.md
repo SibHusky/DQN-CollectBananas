@@ -52,6 +52,7 @@ Episode 2200	Average Score: 12.44
 Episode 2237	Average Score: 13.02  
 Environment solved in 2237 episodes.  
 
+<img src="https://github.com/SibHusky/DQN-CollectBananas/blob/master/result_plot.png" width="480" height="270" />
 
 ## Untrained vs trained agent
 
