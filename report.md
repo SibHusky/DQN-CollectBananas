@@ -1,4 +1,4 @@
-#Report
+# Report
 
 ## The learning algorithm
 
@@ -7,17 +7,16 @@ http://files.davidqiu.com//research/nature14236.pdf
 
 The start values for the hyperparameters were taken from a similar project. 
 ---
-
-epsilon_start = 1.0
-epsilon_end = 0.01
-epsilon_decay = 0.998 (start value was 0.995, vale was increased for more exploration)
-
-replay buffer size = 10000
-minibatch size = 64
-Gamma = 0.99
-Tau = 0.001
-learning_rate = 0.0005
-Update the network every 4 episodes
+epsilon_start = 1.0  
+epsilon_end = 0.01  
+epsilon_decay = 0.998 (start value was 0.995, vale was increased for more exploration)  
+  
+replay buffer size = 10000  
+minibatch size = 64  
+Gamma = 0.99  
+Tau = 0.001  
+learning_rate = 0.0005  
+Update the network every 4 episodes  
 
 The neural network
 ---
@@ -27,6 +26,11 @@ In this project the state is represented as vector. So a simple 3 layer - DNN is
 - layer 3: 128 --> 4
 
 ## Result and plots
+
+## Untrained vs trained agent
+
+| <img src="https://github.com/SibHusky/DQN-CollectBananas/blob/master/gifs/untrained.gif" width="480" height="270" /> | <img src="https://github.com/SibHusky/DQN-CollectBananas/blob/master/gifs/trained_James.gif" width="480" height="270" />  |
+|---|---|
 
 ## Ideas for the future work
 - intensive hyperparameter tuning
