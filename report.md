@@ -27,6 +27,32 @@ In this project the state is represented as vector. So a simple 3 layer - DNN is
 
 ## Result and plots
 
+Episode 100	Average Score: 0.22  
+Episode 200	Average Score: 0.48  
+Episode 300	Average Score: 1.28  
+Episode 400	Average Score: 2.30  
+Episode 500	Average Score: 3.09  
+Episode 600	Average Score: 4.06  
+Episode 700	Average Score: 4.75   
+Episode 800	Average Score: 6.27  
+Episode 900	Average Score: 6.76  
+Episode 1000	Average Score: 7.28  
+Episode 1100	Average Score: 8.08  
+Episode 1200	Average Score: 8.34  
+Episode 1300	Average Score: 9.09  
+Episode 1400	Average Score: 9.12  
+Episode 1500	Average Score: 9.74  
+Episode 1600	Average Score: 10.03  
+Episode 1700	Average Score: 11.30  
+Episode 1800	Average Score: 11.50  
+Episode 1900	Average Score: 11.52  
+Episode 2000	Average Score: 10.93  
+Episode 2100	Average Score: 11.65    
+Episode 2200	Average Score: 12.44  
+Episode 2237	Average Score: 13.02  
+Environment solved in 2237 episodes.  
+
+
 ## Untrained vs trained agent
 
 | <img src="https://github.com/SibHusky/DQN-CollectBananas/blob/master/gifs/untrained.gif" width="480" height="270" /> | <img src="https://github.com/SibHusky/DQN-CollectBananas/blob/master/gifs/trained_James.gif" width="480" height="270" />  |
